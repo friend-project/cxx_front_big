@@ -1,0 +1,14 @@
+@import "./../../scss/_base.scss";
+
+.box {
+  min-height: uc(500);
+  margin: uc(27) 0 0;
+
+  background: red;
+}
+
+[data-dpr="2"] .btn {
+
+}
+[data-dpr="3"] .btn {
+}
